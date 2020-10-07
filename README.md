@@ -70,7 +70,7 @@ Você encontrará o conjunto de dados de documentos no diretório *dataset* do r
 1. Implemente um *Job* para construir o dicionário. Cada linha do arquivo de saída deverá ser a palavra seguida de seu identificador (**world_id**). Nos documentos armazenados no diretório *dataset* as palavras estão separadas por um ou mais espaços.
 2. Implemente um ou mais *Jobs* para construir o índice reverso
 
-Você deve usar ou **PySpark - Python** para estes *Jobs*
+Você deve usar ou **PySpark ou Python puro** para estes *Jobs*
 
 Em caso de dúvidas, enviar email para: **rangel.souza@projeto22.com.br**
 
