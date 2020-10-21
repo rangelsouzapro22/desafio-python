@@ -213,7 +213,7 @@ class ReverseIndex:
         """
         while True:
             print(150 * '*')
-            search_term = input("Enter your sentence to search: ")
+            search_term = input("Enter your sentence to search or (q) to quit: ")
             if search_term == 'q':
                 break
             _ = self.search_word(search_term)
