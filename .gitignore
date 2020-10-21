@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# exception
+*.json
+
+# folders
+dataset/
+output/
+.ipynb_checkpoints/
+.idea/
